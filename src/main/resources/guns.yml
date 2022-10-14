@@ -1,0 +1,21 @@
+guns:
+  M16:
+    fireRate: .2
+    damage: 5
+    ammoCapacity: 30
+    texture: 1
+    reloadTime: 1
+    fireType: straight
+    bulletsPerShot: 1
+    range: 16
+    name: M16
+  PumpShotgun:
+    fireRate: .5
+    damage: 8
+    ammoCapacity: 6
+    texture: 2
+    reloadTime: 1.5
+    fireType: spread
+    bulletsPerShot: 5
+    range: 10
+    name: Pump Shotgun

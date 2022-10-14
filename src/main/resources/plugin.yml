@@ -1,0 +1,12 @@
+name: MinecraftTTT
+version: '${project.version}'
+main: com.dangermage.minecraftttt.MinecraftTTT
+api-version: 1.18
+authors: [ DangerMage ]
+description: TTT in minecraft
+
+commands:
+  GiveGun:
+    description: gives a gun to the user who runs the command
+    usage: /<command> {gunName}
+    default: op
