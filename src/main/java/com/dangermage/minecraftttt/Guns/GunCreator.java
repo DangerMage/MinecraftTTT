@@ -44,6 +44,7 @@ public class GunCreator {
             gunConfig.set("guns.debug.fireType", "straight");
             gunConfig.set("guns.debug.bulletsPerShot", 1);
             gunConfig.set("guns.debug.range", 1);
+            gunConfig.set("guns.debug.name", "Config is blank you monkey");
 
         }
 
